@@ -1,1 +1,1 @@
-# ailessonplanner
+# AI Lesson Planner
